@@ -22,4 +22,4 @@
  - wizualizacja funkcji
 
 # Prototyp
-[Link](https://www.figma.com/design/2Mu3DWs6QTLAN3wiDS73s4/Untitled?node-id=0-1&t=6elg39fYGZJTRR7t-1)
+[Link](https://v0.app/makuwka9-7479/chat/math-function-visualizer-ih3VUzvoFw1)
